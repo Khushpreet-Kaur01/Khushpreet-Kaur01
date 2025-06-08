@@ -41,7 +41,7 @@ I'm a passionate **Full Stack Developer** currently doing my Co-op 2025 at Sheri
 - 🤔 Exploring opportunities in emerging technologies
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Khushpreet-Kaur01&show_icons=true&theme=radical)
+![Your GitHub stats]https://github-readme-stats.vercel.app/api?username=Khushpreet-Kaur01&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushpreet-Kaur01&layout=compact&theme=radical)
 
@@ -53,8 +53,8 @@ I'm a passionate **Full Stack Developer** currently doing my Co-op 2025 at Sheri
 
 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khushpreetkaurr)
-- 📧 [Email](mailto:kau15618@sheridancollege.ca)
+💼 LinkedIn
+📧 Email
 💬 Always open to interesting conversations about tech, opportunities, and the latest in AI!
 
 ---

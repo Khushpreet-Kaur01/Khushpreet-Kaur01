@@ -41,9 +41,9 @@ I'm a passionate **Full Stack Developer** currently doing my Co-op 2025 at Sheri
 - 🤔 Exploring opportunities in emerging technologies
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Khushpreet-Kaur01=&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushpreet-Kaur01&layout=compact&theme=radical)
 
 ## 🎲 Fun Facts
 - ⚡ I can debug code faster than I can solve a Rubik's cube (and that's saying something!)
@@ -52,8 +52,8 @@ I'm a passionate **Full Stack Developer** currently doing my Co-op 2025 at Sheri
 - 🔧 I enjoy the satisfaction of turning coffee into code
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/khushpreetkaurr/
+- 📧 Email: kau15618@sheridancollege.ca
 - 💬 Always open to interesting conversations about tech, opportunities, and the latest in AI!
 
 ---
